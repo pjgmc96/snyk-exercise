@@ -1,0 +1,20 @@
+{
+  "name": "snyk-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^3.2.6",
+    "axios": "^1.8.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
